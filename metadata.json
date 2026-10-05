@@ -1,0 +1,6 @@
+{
+  "name": "SATA Agro & Allied Limited",
+  "description": "Modern, accessible agro-commodity platform for SATA Agro & Allied Limited, featuring grain sourcing, modern rice processing, warehousing, trade facilitation, light/dark themes, and optimized typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
